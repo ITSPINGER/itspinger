@@ -1,6 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itspinger&show_icon=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-(https://github-readme-stats.vercel.app/api?username=itspinger&count_private=true&show_icons=true&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itspinger&count_private=true&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspinger&theme=dark&layout=compact&langs_count=6" />
+</div>
 
 <!--
 **ITSPINGER/itspinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
